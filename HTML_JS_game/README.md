@@ -1,0 +1,1 @@
+Basic browser game built using HTML and JS with the purpose of learning programming logic.
