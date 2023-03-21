@@ -1,0 +1,1 @@
+Application built from scratch to teach React foundations.
